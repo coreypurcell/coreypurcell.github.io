@@ -15,6 +15,8 @@ links:
     url:          mailto:me@coreypurcell.com
   - name:         GitHub
     url:          http://github.com/coreypurcell
+  - name:         Resume
+    url:          http://resume.coreypurcell.com
 
 pygments:         true
 permalink:        pretty
