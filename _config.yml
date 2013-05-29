@@ -1,4 +1,4 @@
-title:            Scribble
+title:            Corey Purcell
 description:      A jekyll theme. Because I scribble.
 url:              # Site url.
 signoff:          # Your name.
@@ -10,11 +10,11 @@ links:
   - name:         About
     url:          /about
   - name:         Blog
-    url:          http://muan.co
+    url:          http://coreypurcell.com
   - name:         Email
-    url:          mailto:hello@muan.co
+    url:          mailto:me@coreypurcell.com
   - name:         GitHub
-    url:          http://github.com/muan
+    url:          http://github.com/coreypurcell
 
 pygments:         true
 permalink:        pretty
