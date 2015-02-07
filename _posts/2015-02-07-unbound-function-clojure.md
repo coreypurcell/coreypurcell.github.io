@@ -11,7 +11,19 @@ While working through Programming Clojure, I was attempting to build a move func
 Attempting to call unbound fn: #'reader.snake/move
 {% endhighlight %}
 
-It turns out that the code wasn't comiling. Here was my original code:
+It turns out that the code wasn't comiling. The clue was that the error means you are trying to call a function that was declared but not defined.
+
+{% highlight clojure %}
+(declare foo)
+(foo)
+;java.lang.IllegalStateException: Attempting to call unbound fn: #'user/foo
+ 
+(defn foo [] "OK")
+(foo)
+"OK"
+{% endhighlight %}
+
+Here was my original code:
 
 {% highlight clojure %}
 (defn move [{:keys [body dir] :as snake} & grow]
