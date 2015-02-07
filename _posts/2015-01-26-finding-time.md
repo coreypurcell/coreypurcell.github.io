@@ -25,6 +25,6 @@ This blog is my first attempt to start again. As Jessica put it, I need to “br
 
 So a plan:
 
-One thing I hope to write about, is my attempt to implement the game of Monopoly. Raganwald wrote about it (http://weblog.raganwald.com/2006/06/my-favourite-interview-question.html) and I think it’s a great way for me to explore OO design and hopefully compare it to a Clojure implementation as I learn.
+One thing I hope to write about, is my attempt to implement the game of Monopoly. [Raganwald wrote about it](http://weblog.raganwald.com/2006/06/my-favourite-interview-question.html) and I think it’s a great way for me to explore OO design and hopefully compare it to a Clojure implementation as I learn.
 
 Those of you that know me, please encourage me to follow up. You, the community, have been such a blessing to me and my career. Maybe my ramblings on a blog somewhere will help me give back.
